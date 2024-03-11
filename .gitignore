@@ -1,0 +1,25 @@
+# Ignore everything
+*
+
+!.gitignore
+!CMakeLists.txt
+!matrix/*
+
+matrix/*
+!matrix/*.cpp
+!matrix/*.hpp
+
+
+.vs/
+out/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+Debug/
+Release/
+x64/
+*.exe
+*.dll
+*.pdb
+*.ilk
