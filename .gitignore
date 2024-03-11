@@ -1,13 +1,6 @@
 # Ignore everything
 *
 
-!.gitignore
-!CMakeLists.txt
-!matrix/*
-
-matrix/*
-!matrix/*.cpp
-!matrix/*.hpp
 
 
 .vs/
